@@ -4,8 +4,9 @@ Hey, so here are the commands I made to complete this Google Cloud Lab.
 You can find this and more in https://www.cloudskillsboost.google/
 
 # Task 1
-
-name of instance: nucleus-jumphost-161
+For the first, I strongly advise you to select everything from the UI to obtain the full gcloud command.
+The entire lab is designed to familiarize you with the command line. The entire lab is designed to familiarize you with the command line. Create your essay by creating this simple elastic compute configuration. and conclude the remaining tasks solely through the use of the Google terminal. <br>
+**Name of instance:** nucleus-jumphost-161
 
 ```
 gcloud compute instances create nucleus-jumphost-161 \
