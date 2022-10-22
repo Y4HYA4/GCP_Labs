@@ -2,6 +2,14 @@
 Hey, so here are the commands I made to complete this Google Cloud Lab.
 <br>
 You can find this and more in https://www.cloudskillsboost.google/
+### Cloudshell Overview
+- gcloud: for working with Compute Engine, Google Kubernetes Engine (GKE) and many Google Cloud services
+- gsutil: for working with Cloud Storage
+- kubectl: for working with GKE and Kubernetes
+- bq: for working with BigQuery
+- Language support for Java, Go, Python, Node.js, PHP, and Ruby
+Web preview functionality
+- Built-in authorization for access to resources and instances
 
 # Task 1
 For the first, I strongly advise you to select everything from the UI to obtain the full gcloud command. The entire lab is designed to familiarize you with the command line. Create your essay by perfmoring this simple elastic compute configuration. and conclude the remaining tasks solely through the use of the Google terminal. <br>
